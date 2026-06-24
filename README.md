@@ -7,13 +7,13 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/talosL"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/kuroshima-yuki"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=talosL">
-  <img align="right" src="https://komarev.com/ghpvc/?username=talosL&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=kuroshima-yuki">
+  <img align="right" src="https://komarev.com/ghpvc/?username=kuroshima-yuki&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -60,22 +60,22 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/talosL">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=talosL&theme=radical&border=7F3FBF&background=0D1117" alt="Yuki's GitHub streak"/>
+  <a href="https://github.com/kuroshima-yuki">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuroshima-yuki&theme=radical&border=7F3FBF&background=0D1117" alt="Yuki's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/talosL">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talosL&theme=radical" alt="Yuki's GitHub Contribution"/>
+  <a href="https://github.com/kuroshima-yuki">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuroshima-yuki&theme=radical" alt="Yuki's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/talosL"><img alt="Yuki's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=talosL&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/talosL"><img alt="Yuki's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=talosL&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/kuroshima-yuki"><img alt="Yuki's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kuroshima-yuki&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/kuroshima-yuki"><img alt="Yuki's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kuroshima-yuki&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Yuki's Graph](https://github-readme-activity-graph.vercel.app/graph?username=talosL&custom_title=Yuki's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Yuki's Graph](https://github-readme-activity-graph.vercel.app/graph?username=kuroshima-yuki&custom_title=Yuki's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)

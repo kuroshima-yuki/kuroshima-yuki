@@ -18,7 +18,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          GITHUB_ENDPOINT: ${{ secrets.MY_PERSONAL_ENDPOINT }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
